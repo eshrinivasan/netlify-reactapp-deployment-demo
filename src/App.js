@@ -7,7 +7,7 @@ function App() {
        
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://blogs.neelamegam.in/"
           target="_blank"
           rel="noopener noreferrer"
         >
